@@ -1,10 +1,16 @@
+.encryptedKey.json
+# vscode
+.vscode
+
+# hardhat
+artifacts
+cache
+deployments
 node_modules
-.env
 coverage
 coverage.json
-typechain
-deployments
+typechain-types
 
-#Hardhat files
-cache
-artifacts
+.env
+
+gas-report.txt
